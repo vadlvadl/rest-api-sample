@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="JIRA_Hillel" verbose="10" parallel="tests">
+
+    <test name="all-tests" group-by-instances="true" verbose="3">
+        <classes>
+            <class name="TestUserLogin" />
+        </classes>
+    </test>
+</suite>
